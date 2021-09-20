@@ -1,0 +1,14 @@
+2.0/densenet-s-fc.zip filter=lfs diff=lfs merge=lfs -text
+2.0/densenet-s-gru.zip filter=lfs diff=lfs merge=lfs -text
+1.1.0/conv-lite-fc.zip filter=lfs diff=lfs merge=lfs -text
+1.1.0/conv-lite-lstm.zip filter=lfs diff=lfs merge=lfs -text
+1.1.0/densenet-lite-lstm.zip filter=lfs diff=lfs merge=lfs -text
+1.2.0/densenet-lite-fc.zip filter=lfs diff=lfs merge=lfs -text
+1.2.0/densenet-lite-s-gru.zip filter=lfs diff=lfs merge=lfs -text
+1.1.0/conv-lstm.zip filter=lfs diff=lfs merge=lfs -text
+1.1.0/densenet-lite-fc.zip filter=lfs diff=lfs merge=lfs -text
+1.2.0/conv-lite-fc.zip filter=lfs diff=lfs merge=lfs -text
+1.2.0/densenet-lite-gru.zip filter=lfs diff=lfs merge=lfs -text
+1.2.0/densenet-lite-s-fc.zip filter=lfs diff=lfs merge=lfs -text
+cnocr-models-v1.0.0.zip filter=lfs diff=lfs merge=lfs -text
+cnocr-models-v0.1.0.zip filter=lfs diff=lfs merge=lfs -text

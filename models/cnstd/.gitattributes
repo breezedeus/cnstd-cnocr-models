@@ -1,0 +1,7 @@
+1.1/db_resnet18-pan.zip filter=lfs diff=lfs merge=lfs -text
+1.1/db_resnet34-pan.zip filter=lfs diff=lfs merge=lfs -text
+1.1/db_shufflenet_v2-pan.zip filter=lfs diff=lfs merge=lfs -text
+1.1/db_shufflenet_v2_small-pan.zip filter=lfs diff=lfs merge=lfs -text
+1.1/db_shufflenet_v2_tiny-pan.zip filter=lfs diff=lfs merge=lfs -text
+1.1/db_mobilenet_v3-pan.zip filter=lfs diff=lfs merge=lfs -text
+1.1/db_mobilenet_v3_small-pan.zip filter=lfs diff=lfs merge=lfs -text
